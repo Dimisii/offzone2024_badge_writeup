@@ -9,4 +9,6 @@
 ![image](https://github.com/user-attachments/assets/88c4539e-e0c6-428e-b724-984bad21fa9b)
 
 После этого используя скрипт из этого репозитоиря или написав свой, отправляем "HELP" на бейдж, и в ответ получаем список команд
+
+
 ![image](https://github.com/user-attachments/assets/f19d70b0-c183-4e88-b3e3-6a922446ce4d)
